@@ -41,6 +41,8 @@
       "last 1 safari version"
     ]
   },
+  "proxy":"https://e-commerce-partone.onrender.com"
+  ,
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   }
